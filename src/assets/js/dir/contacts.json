@@ -1,0 +1,115 @@
+[   
+    {
+        "id": 1,
+        "name": "Laiba Khan",
+        "status": "online",
+        "profile": "assets/images/users/avatar-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Dania Khan",
+        "status": "online",
+        "profile": "assets/images/users/avatar-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Kainat Aslam",
+        "status": "online",
+        "profile": "assets/images/users/avatar-3.jpg"
+    },
+    {   "id": 4,
+        "nickname": "RL",
+        "name": "Rashid Khan",
+        "status": "Offline", 
+        "profile": "" 
+    }, 
+    {
+        "id": 5,
+        "name": "Ali Abdullah",
+        "status": "Offline",
+        "profile": "assets/images/users/avatar-6.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Javeria Khan",
+        "status": "online",
+        "profile": "assets/images/users/avatar-7.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Abdullah Baig",
+        "status": "online",
+        "profile": "assets/images/users/avatar-8.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Esha Aslam",
+        "status": "online",
+        "profile": "assets/images/users/avatar-9.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Nazia Khan",
+        "status": "online",
+        "profile": "assets/images/users/avatar-10.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Haroon Rashed",
+        "status": "online",
+        "profile": "assets/images/users/avatar-11.jpg",
+        "messagecount" : 18
+    },       
+    {
+        "id": 11,
+        "name": "Raamis Majeed",
+        "status": "online",
+        "profile": "assets/images/users/avatar-12.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Jamal Khan",
+        "status": "online",
+        "profile": "assets/images/users/avatar-5.jpg"
+    }, 
+    {
+        "id": 13,
+        "nickname": "MM",
+        "name": "Muhammad Muzammil",
+        "status": "online",
+        "profile": ""
+    },
+    {
+        "id": 14,
+        "nickname": "MK",
+        "name": "Muhammad Maaz",
+        "status": "online",
+        "profile": ""
+    },
+    {
+        "id": 15,
+        "name": "Zaman Khan",
+        "status": "online",
+        "profile": "assets/images/users/avatar-4.jpg"
+    },  
+    {
+        "id": 16,
+        "name": "Jamal Khan",
+        "status": "online",
+        "profile": "assets/images/users/avatar-10.jpg"
+    },
+    {
+        "id": 17,
+        "nickname": "HW",
+        "name": "Haris Waris",
+        "status": "online",
+        "profile": ""
+    },
+    {
+        "id": 18,
+        "name": "Saad Ali",
+        "status": "online",
+        "profile": "assets/images/users/avatar-2.jpg"
+    }      
+  ]
+  
